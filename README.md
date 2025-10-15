@@ -4,6 +4,7 @@ An interactive Power BI dashboard that analyzes Netflix content data to uncover 
 🚀 Project Overview
 
 The dashboard provides insights into:
+	
 	•	Total titles by type (Movies vs. TV Shows)
 	•	Content distribution by country and release year
 	•	Most common genres and ratings
@@ -11,7 +12,6 @@ The dashboard provides insights into:
   
   🧠 Skills & Tools Used
   
-	•	SQL — for data extraction and management
 	•	Power Query — for data cleaning and transformation
 	•	Power BI — for dashboard design and data visualization
 	•	Netflix Titles Dataset
