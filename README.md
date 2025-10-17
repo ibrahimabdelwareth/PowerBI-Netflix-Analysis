@@ -1,5 +1,5 @@
-# PowerBI-Netflix-Analysis
-An interactive Power BI dashboard that analyzes Netflix content data to uncover key insights about shows and movies available on the platform.
+# Power bi-Netflix-Analysis
+An interactive Power bi dashboard that analyzes Netflix content data to uncover key insights about shows and movies available on the platform.
 
 🚀 Project Overview
 
@@ -13,7 +13,7 @@ The dashboard provides insights into:
   🧠 Skills & Tools Used
   
 	•	Power Query — for data cleaning and transformation
-	•	Power BI — for dashboard design and data visualization
+	•	Power bi — for dashboard design and data visualization
 	•	Netflix Titles Dataset
   📊 Dashboard Preview
 <img width="1364" height="668" alt="Screenshot 2025-10-15 124249" src="https://github.com/user-attachments/assets/77eba254-ecca-4332-af27-5303a7378a3b" />
